@@ -109,5 +109,5 @@ let locationObj = {
     }
   },
 };
-
-locationObj.getLocation();
+// locationObj.getLocation();
+currWeather.fetchWeather("Tel-aviv");
